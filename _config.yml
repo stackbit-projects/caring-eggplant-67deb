@@ -54,7 +54,7 @@ header:
     - label: DEV
       url: 'https://dev.to/'
       style: icon
-      icon_class: fa-
+      icon_class: fa-envelope-open
       new_window: true
 footer:
   content: >-
