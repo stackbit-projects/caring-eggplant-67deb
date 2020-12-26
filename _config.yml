@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 description: Personal blogging theme for Stackbit
 layout_style: overflow
-palette: blue
+palette: orange
 header:
   title: Magreee
   tagline: Header Tagline
